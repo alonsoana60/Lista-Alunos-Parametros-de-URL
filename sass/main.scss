@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.main {
+    background-color: lightblue;
+    width: 80%;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.lista-alunos {
+    height: auto;
+    width: 100%;
+    background-color: rgb(240, 240, 240);
+    margin: 10px auto;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+.filtros{
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    padding-top: 10px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+input {
+    margin-right: 20px;
+}
+
+h1 {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black
+}
+
+label {
+    margin: auto 0;
+    padding-right: 5px;
+}
+
+// ul {
+//     height: auto;
+//     width: 100%;
+//     margin: 10px auto;
+// }
+
+li {
+    width: 90%;
+    list-style: none;
+    border-bottom: 1px solid #ccc;
+    padding: 2px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ 
+
+// css pagina details
+
+h2 {
+    text-align: center;
+}
+
+.details{
+ background-color: lightblue;;
+        width: 80%;
+        margin: 10px auto;
+        border-radius: 10px;
+}
+
+.back {
+margin: 50% ;
+}
+
+.dados{
+    background-color: rgb(202, 239, 252);;    
+    height: 200px;
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.foto{
+    margin: 0 20px;
+}
+
+.container{
+    font-size: 18px;
+
+}
+
+table{
+    margin: 20px;
+    border: 1px solid black;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "parametros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "live-server",
+    "sass": "npx sass sass/main.scss css/styles.css -w",
+    "typescript":"npx tsc -w",
+    "json:server": "npx json-server -p 3500 -H 127.0.0.1 ./data/lista-alunos.json -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

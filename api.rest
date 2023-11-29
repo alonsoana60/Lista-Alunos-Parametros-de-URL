@@ -1,0 +1,23 @@
+GET http://127.0.0.1:3500/lista-materia HTTP/1.1
+
+###
+GET http://127.0.0.1:3500/lista-alunos HTTP/1.1
+
+### 
+GET http://127.0.0.1:3500/lista-alunos?_sort=nome HTTP/1.1
+
+###
+GET http://127.0.0.1:3500 HTTP/1.1
+
+###
+GET http://127.0.0.1:3500/lista-turmas HTTP/1.1
+
+### 
+GET http://127.0.0.1:3500/lista-alunos?_sort=nome&_limit=7&_page=1 HTTP/1.1
+# para paginacao, incluir  a partir de &_limit para puxar quantidade de dados maximo por pagina e quantidade total de data
+
+###
+GET http://127.0.0.1:3500/lista-turmas?_sort=turma&_limit=2&_page=1 HTTP/1.1
+
+###
+GET http://127.0.0.1:3500/lista-materia?_sort=materia&_limit=2&_page=1 HTTP/1.1
