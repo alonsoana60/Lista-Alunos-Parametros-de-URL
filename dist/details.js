@@ -1,4 +1,3 @@
-"use strict";
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -10,11 +9,6 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 const values = window.location.search;
 const searchParams = new URLSearchParams(values);
-if (searchParams.has("id")) {
-    console.log("id", searchParams.get("id"));
-    const id = parseInt(searchParams.get("id"));
-    getStudent(id);
-}
 function getStudent(id) {
     return __awaiter(this, void 0, void 0, function* () {
         const resp = yield fetch(`http://localhost:3500/lista-alunos/${id}`);
@@ -34,3 +28,9 @@ function getStudent(id) {
         dataStudent(data.id);
     });
 }
+if (searchParams.has("id")) {
+    console.log("id", searchParams.get("id"));
+    const id = parseInt(searchParams.get("id"));
+    getStudent(id);
+}
+export {};

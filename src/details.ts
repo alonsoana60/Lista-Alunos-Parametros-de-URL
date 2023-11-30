@@ -1,11 +1,10 @@
+import {ITurma , IAlunos} from "./type";
+
+
 const values = window.location.search;
 const searchParams = new URLSearchParams(values);
 
-if (searchParams.has("id")){
-    console.log("id", searchParams.get("id"));
-    const id = parseInt(searchParams.get("id")!);
-    getStudent(id);
-}
+
 
 async function getStudent (id:number){
     const resp =  await fetch (`http://localhost:3500/lista-alunos/${id}`);
@@ -30,7 +29,11 @@ async function getStudent (id:number){
     dataStudent(data.id) 
 }
     
-   
+  if (searchParams.has("id")){
+    console.log("id", searchParams.get("id"));
+    const id = parseInt(searchParams.get("id")!);
+    getStudent(id);
+} 
 
 
 

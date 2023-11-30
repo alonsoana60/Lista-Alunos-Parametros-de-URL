@@ -1,40 +1,4 @@
-interface ITurma {
-  id: number,
-  turma: string,
-}
-
-interface INotas {
-  matematica: number [],
-  portugues: number [],
-  historia: number [],
-  geografia: number [],
-  fisica: number [],
-  quimica: number [],
-  linguas: number [],
-}
-
-interface IFaltas {
-  matematica: number,
-  portugues: number,
-  historia: number,
-  geografia: number,
-  fisica: number,
-  quimica: number,
-  linguas: number,
-}
-
-interface IAlunos {
-    id: number,
-    nome: string,
-    turma: number,
-    notas: INotas, 
-    faltas: IFaltas,
-}
-
-interface IFiltro {
-  id:string,
-  nome:string,
-}
+import {ITurma , IAlunos , IFiltro} from "./type"
 
 const filtro: IFiltro = {
   id: "0",
