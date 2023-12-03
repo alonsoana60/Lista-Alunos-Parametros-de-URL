@@ -1,13 +1,13 @@
 {
-  "lista-materia": [
-  "matematica",
-  "portugues",
-  "historia",
-  "geografia",
-  "fisica",
-  "quimica",
-  "linguas"
-], 
+  "lista-materia": {
+    "Matemática": "Matemática",
+    "Português": "Português",
+    "História": "História",
+    "Geografia": "Geografia",
+    "Física": "Física",
+    "Química": "Química",
+    "Línguas": "Línguas"
+  },
 
 "lista-turmas":[
   {

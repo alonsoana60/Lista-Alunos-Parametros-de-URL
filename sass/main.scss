@@ -116,9 +116,26 @@ margin: 50% ;
 .container{
     font-size: 18px;
     text-align: center;
+
+    #turma{
+    font-weight: bold;
+    }
 }
 
 table{
-    margin: 20px;
+    margin: auto 20px;
     border: 1px solid black;
+
+    .titulos {
+    text-align: center;
+    border: 1px solid black; 
+    font-weight: 900;  
+    }
+
+    td , th{
+    font-weight: lighter;
+    text-align: center;
+    }
+
+    
 }

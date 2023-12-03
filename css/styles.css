@@ -112,10 +112,22 @@ h2 {
   font-size: 18px;
   text-align: center;
 }
+.container #turma {
+  font-weight: bold;
+}
 
 table {
-  margin: 20px;
+  margin: auto 20px;
   border: 1px solid black;
+}
+table .titulos {
+  text-align: center;
+  border: 1px solid black;
+  font-weight: 900;
+}
+table td, table th {
+  font-weight: lighter;
+  text-align: center;
 }
 
 /*# sourceMappingURL=styles.css.map */
