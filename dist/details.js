@@ -48,6 +48,7 @@ if (searchParams.has("id")) {
         document.querySelector("#nome").textContent = alunos.nome;
         // popular turma do aluno
         const turma = turmas.find((turma) => turma.id === alunos.turma);
+        //@ts-ignore
         document.querySelector("#turma").textContent = turma === null || turma === void 0 ? void 0 : turma.turma;
         // popular materias
         const notas = document.querySelector("tbody");
@@ -58,18 +59,19 @@ if (searchParams.has("id")) {
             const thMateria = document.createElement("th");
             thMateria.innerText = materia;
             tr.appendChild(thMateria);
-            // for (const nota of alunos.notas[materia]){
-            //     const tdNota = document.createElement("td");
-            //     tdNota!.innerText = String(nota);
-            //     console.log(tdNota);
-            //     tr.appendChild(tdNota);
-            // for (const faltas of alunos.faltas[materia]){
-            //     const tdFalta = document.createElement("td");
-            //     tdFalta!.innerText = String(faltas);
-            //     console.log(tdFalta);
-            //     tr.appendChild(tdFalta);
-            // }
-            // }
+            //@ts-ignore
+            // popular notas
+            for (const nota of alunos.notas[materia]) {
+                const tdNota = document.createElement("td");
+                tdNota.innerText = String(nota);
+                console.log(tdNota);
+                tr.appendChild(tdNota);
+            }
+            // popular faltas
+            const tdFalta = document.createElement("td");
+            //@ts-ignore
+            tdFalta.innerText = String(alunos.faltas[materia]);
+            tr.appendChild(tdFalta);
             notas === null || notas === void 0 ? void 0 : notas.appendChild(tr);
         }
     });

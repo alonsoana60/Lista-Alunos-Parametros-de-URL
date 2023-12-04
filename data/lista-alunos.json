@@ -32,22 +32,22 @@
     "nome": "Carlos Souza",
     "turma":1,
     "notas": {
-      "matematica": [8.5, 7.2, 6, 5.6],
-      "portugues": [5.4, 6.8, 5.3, 6.3],
-      "historia": [8.4, 8.4, 5.4, 8.5],
-      "geografia": [7.9, 9.6, 6.7, 8.1],
-      "fisica": [9.5, 9.4, 9.7, 9.8],
-      "quimica": [5.2, 5.2, 5, 6.6],
-      "linguas": [5, 5, 5, 5]
+      "Matemática": [8.5, 7.2, 6, 5.6],
+      "Português": [5.4, 6.8, 5.3, 6.3],
+      "História": [8.4, 8.4, 5.4, 8.5],
+      "Geografia": [7.9, 9.6, 6.7, 8.1],
+      "Física": [9.5, 9.4, 9.7, 9.8],
+      "Química": [5.2, 5.2, 5, 6.6],
+      "Línguas": [5, 5, 5, 5]
     },
     "faltas": {
-      "matematica": 1,
-      "portugues": 5,
-      "historia": 2,
-      "geografia": 6,
-      "fisica": 1,
-      "quimica": 7,
-      "linguas": 7
+      "Matemática": 1,
+      "Português": 5,
+      "História": 2,
+      "Geografia": 6,
+      "Física": 1,
+      "Química": 7,
+      "Línguas": 7
     }
   },
   {
@@ -55,22 +55,22 @@
     "nome": "Mariana Rocha",
     "turma":2,
     "notas": {
-      "matematica": [8.2, 6.2, 7.4, 7.2],
-      "portugues": [7.5, 9.4, 7.1, 9.1],
-      "historia": [7.8, 8.9, 8, 8.7],
-      "geografia": [8.7, 8.3, 9, 9.9],
-      "fisica": [4.3, 6.8, 4.8, 4.1],
-      "quimica": [9, 7.5, 8.2, 8.7],
-      "linguas": [2.5, 2.8, 3.2, 3.9]
+      "Matemática": [8.2, 6.2, 7.4, 7.2],
+      "Português": [7.5, 9.4, 7.1, 9.1],
+      "História": [7.8, 8.9, 8, 8.7],
+      "Geografia": [8.7, 8.3, 9, 9.9],
+      "Física": [4.3, 6.8, 4.8, 4.1],
+      "Química": [9, 7.5, 8.2, 8.7],
+      "Línguas": [2.5, 2.8, 3.2, 3.9]
     },
     "faltas": {
-      "matematica": 4,
-      "portugues": 3,
-      "historia": 5,
-      "geografia": 9,
-      "fisica": 8,
-      "quimica": 6,
-      "linguas": 3
+      "Matemática": 4,
+      "Português": 3,
+      "História": 5,
+      "Geografia": 9,
+      "Física": 8,
+      "Química": 6,
+      "Línguas": 3
     }
   },
   {
@@ -78,22 +78,22 @@
     "nome": "Maria Oliveira",
     "turma":3,
     "notas": {
-      "matematica": [6.1, 8.3, 9.1, 6.9],
-      "portugues": [9.4, 6.6, 6.8, 9.2],
-      "historia": [8.3, 7.4, 8.5, 8.2],
-      "geografia": [6.5, 8.3, 8.2, 5],
-      "fisica": [5, 5, 5, 5],
-      "quimica": [8.8, 8.2, 8.9, 6.7],
-      "linguas": [8.6, 8.5, 7.8, 7.3]
+      "Matemática": [6.1, 8.3, 9.1, 6.9],
+      "Português": [9.4, 6.6, 6.8, 9.2],
+      "História": [8.3, 7.4, 8.5, 8.2],
+      "Geografia": [6.5, 8.3, 8.2, 5],
+      "Física": [5, 5, 5, 5],
+      "Química": [8.8, 8.2, 8.9, 6.7],
+      "Línguas": [8.6, 8.5, 7.8, 7.3]
     },
     "faltas": {
-      "matematica": 3,
-      "portugues": 3,
-      "historia": 7,
-      "geografia": 4,
-      "fisica": 7,
-      "quimica": 7,
-      "linguas": 7
+      "Matemática": 3,
+      "Português": 3,
+      "História": 7,
+      "Geografia": 4,
+      "Física": 7,
+      "Química": 7,
+      "Línguas": 7
     }
   },
   {
@@ -101,22 +101,22 @@
     "nome": "Ana Silva",
     "turma":1,
     "notas": {
-      "matematica": [8.1, 7.4, 9.3, 6.7],
-      "portugues": [6.1, 5.5, 6.9, 5.2],
-      "historia": [8.3, 6.7, 7.8, 8.7],
-      "geografia": [6.2, 6.8, 4.8, 5.5],
-      "fisica": [8.1, 9.9, 8.4, 8.7],
-      "quimica": [4, 4.3, 2.6, 2.3],
-      "linguas": [6.4, 6.3, 8.1, 8.8]
+      "Matemática": [8.1, 7.4, 9.3, 6.7],
+      "Português": [6.1, 5.5, 6.9, 5.2],
+      "História": [8.3, 6.7, 7.8, 8.7],
+      "Geografia": [6.2, 6.8, 4.8, 5.5],
+      "Física": [8.1, 9.9, 8.4, 8.7],
+      "Química": [4, 4.3, 2.6, 2.3],
+      "Línguas": [6.4, 6.3, 8.1, 8.8]
     },
     "faltas": {
-      "matematica": 9,
-      "portugues": 8,
-      "historia": 3,
-      "geografia": 7,
-      "fisica": 9,
-      "quimica": 3,
-      "linguas": 10
+      "Matemática": 9,
+      "Português": 8,
+      "História": 3,
+      "Geografia": 7,
+      "Física": 9,
+      "Química": 3,
+      "Línguas": 10
     }
   },
   {
@@ -124,22 +124,22 @@
     "nome": "Carlos Pereira",
     "turma":2,
     "notas": {
-      "matematica": [6.5, 6.8, 5, 6.9],
-      "portugues": [8.6, 7.4, 6.3, 9.8],
-      "historia": [7, 7.6, 7.8, 8.7],
-      "geografia": [4.1, 4, 5.3, 5.6],
-      "fisica": [3.7, 5, 2.2, 4.1],
-      "quimica": [5.1, 8, 5.4, 8.8],
-      "linguas": [9, 9.4, 9.9, 6.2]
+      "Matemática": [6.5, 6.8, 5, 6.9],
+      "Português": [8.6, 7.4, 6.3, 9.8],
+      "História": [7, 7.6, 7.8, 8.7],
+      "Geografia": [4.1, 4, 5.3, 5.6],
+      "Física": [3.7, 5, 2.2, 4.1],
+      "Química": [5.1, 8, 5.4, 8.8],
+      "Línguas": [9, 9.4, 9.9, 6.2]
     },
     "faltas": {
-      "matematica": 9,
-      "portugues": 5,
-      "historia": 3,
-      "geografia": 6,
-      "fisica": 9,
-      "quimica": 1,
-      "linguas": 1
+      "Matemática": 9,
+      "Português": 5,
+      "História": 3,
+      "Geografia": 6,
+      "Física": 9,
+      "Química": 1,
+      "Línguas": 1
     }
   },
   {
@@ -147,22 +147,22 @@
     "nome": "Pedro Souza",
     "turma":3,
     "notas": {
-      "matematica": [7.2, 8, 7.6, 5.4],
-      "portugues": [6.4, 7.3, 7, 5.1],
-      "historia": [7.8, 8.9, 6.9, 7.1],
-      "geografia": [8.7, 7.4, 9.4, 7],
-      "fisica": [6.5, 5.5, 6, 5.5],
-      "quimica": [4.8, 2.9, 2.3, 2.2],
-      "linguas": [7.9, 7.5, 8.5, 5.6]
+      "Matemática": [7.2, 8, 7.6, 5.4],
+      "Português": [6.4, 7.3, 7, 5.1],
+      "História": [7.8, 8.9, 6.9, 7.1],
+      "Geografia": [8.7, 7.4, 9.4, 7],
+      "Física": [6.5, 5.5, 6, 5.5],
+      "Química": [4.8, 2.9, 2.3, 2.2],
+      "Línguas": [7.9, 7.5, 8.5, 5.6]
     },
     "faltas": {
-      "matematica": 1,
-      "portugues": 4,
-      "historia": 6,
-      "geografia": 1,
-      "fisica": 8,
-      "quimica": 1,
-      "linguas": 5
+      "Matemática": 1,
+      "Português": 4,
+      "História": 6,
+      "Geografia": 1,
+      "Física": 8,
+      "Química": 1,
+      "Línguas": 5
     }
   },
   {
@@ -170,22 +170,22 @@
     "nome": "Fernanda Pereira",
     "turma":1,
     "notas": {
-      "matematica": [7.7, 9.2, 8.4, 9.3],
-      "portugues": [7, 4, 5.4, 5.9],
-      "historia": [6.9, 7.7, 9.1, 6.1],
-      "geografia": [4.7, 5.1, 5.2, 4.1],
-      "fisica": [9.2, 9.7, 7.9, 7.2],
-      "quimica": [8.3, 8, 9.1, 6.9],
-      "linguas": [8.8, 5.9, 5.3, 7.3]
+      "Matemática": [7.7, 9.2, 8.4, 9.3],
+      "Português": [7, 4, 5.4, 5.9],
+      "História": [6.9, 7.7, 9.1, 6.1],
+      "Geografia": [4.7, 5.1, 5.2, 4.1],
+      "Física": [9.2, 9.7, 7.9, 7.2],
+      "Química": [8.3, 8, 9.1, 6.9],
+      "Línguas": [8.8, 5.9, 5.3, 7.3]
     },
     "faltas": {
-      "matematica": 2,
-      "portugues": 9,
-      "historia": 3,
-      "geografia": 4,
-      "fisica": 6,
-      "quimica": 4,
-      "linguas": 3
+      "Matemática": 2,
+      "Português": 9,
+      "História": 3,
+      "Geografia": 4,
+      "Física": 6,
+      "Química": 4,
+      "Línguas": 3
     }
   },
   {
@@ -193,22 +193,22 @@
     "nome": "Julia Silva",
     "turma":2,
     "notas": {
-      "matematica": [4.9, 6.6, 5.9, 4.5],
-      "portugues": [4.1, 4.2, 6, 4.7],
-      "historia": [4, 7, 6.8, 4.8],
-      "geografia": [4.2, 2.6, 2.2, 4],
-      "fisica": [9.3, 9.6, 7.3, 8.2],
-      "quimica": [7, 7.3, 7.5, 6.6],
-      "linguas": [4.1, 5.8, 5.6, 4.6]
+      "Matemática": [4.9, 6.6, 5.9, 4.5],
+      "Português": [4.1, 4.2, 6, 4.7],
+      "História": [4, 7, 6.8, 4.8],
+      "Geografia": [4.2, 2.6, 2.2, 4],
+      "Física": [9.3, 9.6, 7.3, 8.2],
+      "Química": [7, 7.3, 7.5, 6.6],
+      "Línguas": [4.1, 5.8, 5.6, 4.6]
     },
     "faltas": {
-      "matematica": 9,
-      "portugues": 3,
-      "historia": 4,
-      "geografia": 2,
-      "fisica": 9,
-      "quimica": 2,
-      "linguas": 8
+      "Matemática": 9,
+      "Português": 3,
+      "História": 4,
+      "Geografia": 2,
+      "Física": 9,
+      "Química": 2,
+      "Línguas": 8
     }
   },
   {
@@ -216,22 +216,22 @@
     "nome": "Pedro Lima",
     "turma":3,
     "notas": {
-      "matematica": [8, 8.5, 5.6, 5.8],
-      "portugues": [9.3, 9.3, 7.5, 8.3],
-      "historia": [5, 5, 5, 5],
-      "geografia": [8, 7.1, 9.8, 8.6],
-      "fisica": [5, 6, 6, 6],
-      "quimica": [6, 6.5, 5, 6.6],
-      "linguas": [6.5, 5.6, 5, 8.6]
+      "Matemática": [8, 8.5, 5.6, 5.8],
+      "Português": [9.3, 9.3, 7.5, 8.3],
+      "História": [5, 5, 5, 5],
+      "Geografia": [8, 7.1, 9.8, 8.6],
+      "Física": [5, 6, 6, 6],
+      "Química": [6, 6.5, 5, 6.6],
+      "Línguas": [6.5, 5.6, 5, 8.6]
     },
     "faltas": {
-      "matematica": 6,
-      "portugues": 5,
-      "historia": 1,
-      "geografia": 5,
-      "fisica": 6,
-      "quimica": 6,
-      "linguas": 6
+      "Matemática": 6,
+      "Português": 5,
+      "História": 1,
+      "Geografia": 5,
+      "Física": 6,
+      "Química": 6,
+      "Línguas": 6
     }
   },
   {
@@ -239,22 +239,22 @@
     "nome": "Julia Pereira",
     "turma":1,
     "notas": {
-      "matematica": [5.9, 5.2, 6.3, 6.5],
-      "portugues": [5.2, 4.2, 6.9, 4.6],
-      "historia": [6, 4.1, 7, 5.1],
-      "geografia": [8.3, 5.8, 7.8, 8.4],
-      "fisica": [6.2, 6.8, 6.5, 6.3],
-      "quimica": [9.5, 8.3, 8.7, 9.3],
-      "linguas": [2.2, 2.8, 4.5, 5]
+      "Matemática": [5.9, 5.2, 6.3, 6.5],
+      "Português": [5.2, 4.2, 6.9, 4.6],
+      "História": [6, 4.1, 7, 5.1],
+      "Geografia": [8.3, 5.8, 7.8, 8.4],
+      "Física": [6.2, 6.8, 6.5, 6.3],
+      "Química": [9.5, 8.3, 8.7, 9.3],
+      "Línguas": [2.2, 2.8, 4.5, 5]
     },
     "faltas": {
-      "matematica": 1,
-      "portugues": 3,
-      "historia": 3,
-      "geografia": 10,
-      "fisica": 0,
-      "quimica": 7,
-      "linguas": 9
+      "Matemática": 1,
+      "Português": 3,
+      "História": 3,
+      "Geografia": 10,
+      "Física": 0,
+      "Química": 7,
+      "Línguas": 9
     }
   },
   {
@@ -262,22 +262,22 @@
     "nome": "Ana Oliveira",
     "turma":2,
     "notas": {
-      "matematica": [8.2, 9.2, 8, 6.9],
-      "portugues": [4.6, 5.8, 5.7, 5.7],
-      "historia": [6.7, 4.9, 4.8, 5.1],
-      "geografia": [8.3, 9.7, 9.5, 7.1],
-      "fisica": [4.8, 5.8, 6.4, 5.7],
-      "quimica": [8.3, 9.3, 6.4, 8.4],
-      "linguas": [8.6, 9.9, 7, 7]
+      "Matemática": [8.2, 9.2, 8, 6.9],
+      "Português": [4.6, 5.8, 5.7, 5.7],
+      "História": [6.7, 4.9, 4.8, 5.1],
+      "Geografia": [8.3, 9.7, 9.5, 7.1],
+      "Física": [4.8, 5.8, 6.4, 5.7],
+      "Química": [8.3, 9.3, 6.4, 8.4],
+      "Línguas": [8.6, 9.9, 7, 7]
     },
     "faltas": {
-      "matematica": 8,
-      "portugues": 7,
-      "historia": 8,
-      "geografia": 2,
-      "fisica": 9,
-      "quimica": 9,
-      "linguas": 9
+      "Matemática": 8,
+      "Português": 7,
+      "História": 8,
+      "Geografia": 2,
+      "Física": 9,
+      "Química": 9,
+      "Línguas": 9
     }
   },
   {
@@ -285,22 +285,22 @@
     "nome": "Ana Santos",
     "turma":3,
     "notas": {
-      "matematica": [3.9, 2.5, 3.7, 3.6],
-      "portugues": [4.2, 4.3, 4.1, 5.6],
-      "historia": [6.1, 7.3, 6, 6.8],
-      "geografia": [8.5, 6.7, 6, 8.1],
-      "fisica": [8, 8.8, 5.9, 8.1],
-      "quimica": [8.5, 9, 7.2, 8.4],
-      "linguas": [3.7, 3.5, 2.8, 2.2]
+      "Matemática": [3.9, 2.5, 3.7, 3.6],
+      "Português": [4.2, 4.3, 4.1, 5.6],
+      "História": [6.1, 7.3, 6, 6.8],
+      "Geografia": [8.5, 6.7, 6, 8.1],
+      "Física": [8, 8.8, 5.9, 8.1],
+      "Química": [8.5, 9, 7.2, 8.4],
+      "Línguas": [3.7, 3.5, 2.8, 2.2]
     },
     "faltas": {
-      "matematica": 1,
-      "portugues": 8,
-      "historia": 3,
-      "geografia": 5,
-      "fisica": 3,
-      "quimica": 1,
-      "linguas": 5
+      "Matemática": 1,
+      "Português": 8,
+      "História": 3,
+      "Geografia": 5,
+      "Física": 3,
+      "Química": 1,
+      "Línguas": 5
     }
   },
   {
@@ -308,22 +308,22 @@
     "nome": "Maria Santos",
     "turma":1,
     "notas": {
-      "matematica": [5.6, 6.8, 5.4, 4.1],
-      "portugues": [4.9, 4.5, 3.4, 4.7],
-      "historia": [2.5, 4.8, 3.3, 3.1],
-      "geografia": [9.7, 8.8, 8.9, 7],
-      "fisica": [4.6, 5, 6.8, 4.6],
-      "quimica": [5.1, 7.9, 8, 5.2],
-      "linguas": [7.9, 7.4, 8.8, 7.3]
+      "Matemática": [5.6, 6.8, 5.4, 4.1],
+      "Português": [4.9, 4.5, 3.4, 4.7],
+      "História": [2.5, 4.8, 3.3, 3.1],
+      "Geografia": [9.7, 8.8, 8.9, 7],
+      "Física": [4.6, 5, 6.8, 4.6],
+      "Química": [5.1, 7.9, 8, 5.2],
+      "Línguas": [7.9, 7.4, 8.8, 7.3]
     },
     "faltas": {
-      "matematica": 2,
-      "portugues": 2,
-      "historia": 5,
-      "geografia": 9,
-      "fisica": 8,
-      "quimica": 7,
-      "linguas": 0
+      "Matemática": 2,
+      "Português": 2,
+      "História": 5,
+      "Geografia": 9,
+      "Física": 8,
+      "Química": 7,
+      "Línguas": 0
     }
   },
   {
@@ -331,22 +331,22 @@
     "nome": "Gustavo Costa",
     "turma":2,
     "notas": {
-      "matematica": [6, 5.5, 6.1, 5.3],
-      "portugues": [5.8, 5, 6, 5.9],
-      "historia": [9.1, 9.9, 9.4, 9.6],
-      "geografia": [6.4, 7.2, 8.1, 5.8],
-      "fisica": [6.7, 5.5, 7.8, 8.3],
-      "quimica": [5, 5, 5, 5],
-      "linguas": [9.5, 7.4, 6.1, 7.1]
+      "Matemática": [6, 5.5, 6.1, 5.3],
+      "Português": [5.8, 5, 6, 5.9],
+      "História": [9.1, 9.9, 9.4, 9.6],
+      "Geografia": [6.4, 7.2, 8.1, 5.8],
+      "Física": [6.7, 5.5, 7.8, 8.3],
+      "Química": [5, 5, 5, 5],
+      "Línguas": [9.5, 7.4, 6.1, 7.1]
     },
     "faltas": {
-      "matematica": 7,
-      "portugues": 7,
-      "historia": 6,
-      "geografia": 6,
-      "fisica": 4,
-      "quimica": 5,
-      "linguas": 7
+      "Matemática": 7,
+      "Português": 7,
+      "História": 6,
+      "Geografia": 6,
+      "Física": 4,
+      "Química": 5,
+      "Línguas": 7
     }
   },
   {
@@ -354,22 +354,22 @@
     "nome": "Pedro Santos",
     "turma":3,
     "notas": {
-      "matematica": [7.6, 7.4, 7.3, 6.7],
-      "portugues": [5.2, 8.1, 7, 6.3],
-      "historia": [8.8, 8.2, 9.4, 7.2],
-      "geografia": [6.5, 6.7, 4.2, 4.1],
-      "fisica": [9.2, 8.9, 8.8, 9.9],
-      "quimica": [6.4, 6.3, 6.5, 5.5],
-      "linguas": [4.2, 4.7, 6.9, 4.5]
+      "Matemática": [7.6, 7.4, 7.3, 6.7],
+      "Português": [5.2, 8.1, 7, 6.3],
+      "História": [8.8, 8.2, 9.4, 7.2],
+      "Geografia": [6.5, 6.7, 4.2, 4.1],
+      "Física": [9.2, 8.9, 8.8, 9.9],
+      "Química": [6.4, 6.3, 6.5, 5.5],
+      "Línguas": [4.2, 4.7, 6.9, 4.5]
     },
     "faltas": {
-      "matematica": 2,
-      "portugues": 3,
-      "historia": 7,
-      "geografia": 6,
-      "fisica": 9,
-      "quimica": 7,
-      "linguas": 3
+      "Matemática": 2,
+      "Português": 3,
+      "História": 7,
+      "Geografia": 6,
+      "Física": 9,
+      "Química": 7,
+      "Línguas": 3
     }
   },
   {
@@ -377,22 +377,22 @@
     "nome": "Lucas Almeida",
     "turma":1,
     "notas": {
-      "matematica": [6.3, 8.2, 5.3, 7.9],
-      "portugues": [4.3, 4.4, 6.6, 4.2],
-      "historia": [6.4, 7.5, 7, 7.1],
-      "geografia": [6, 6.6, 7.5, 8.4],
-      "fisica": [6.2, 8.9, 9.2, 7.2],
-      "quimica": [7.1, 9.2, 7.4, 9.7],
-      "linguas": [4.5, 5, 4.2, 4.9]
+      "Matemática": [6.3, 8.2, 5.3, 7.9],
+      "Português": [4.3, 4.4, 6.6, 4.2],
+      "História": [6.4, 7.5, 7, 7.1],
+      "Geografia": [6, 6.6, 7.5, 8.4],
+      "Física": [6.2, 8.9, 9.2, 7.2],
+      "Química": [7.1, 9.2, 7.4, 9.7],
+      "Línguas": [4.5, 5, 4.2, 4.9]
     },
     "faltas": {
-      "matematica": 4,
-      "portugues": 6,
-      "historia": 2,
-      "geografia": 6,
-      "fisica": 9,
-      "quimica": 5,
-      "linguas": 4
+      "Matemática": 4,
+      "Português": 6,
+      "História": 2,
+      "Geografia": 6,
+      "Física": 9,
+      "Química": 5,
+      "Línguas": 4
     }
   },
   {
@@ -400,22 +400,22 @@
     "nome": "João Pereira",
     "turma":2,
     "notas": {
-      "matematica": [6.3, 7.5, 5.6, 8.6],
-      "portugues": [2.8, 2.6, 2.7, 3.3],
-      "historia": [6.3, 4.5, 5.5, 4.6],
-      "geografia": [5.4, 5.7, 4.2, 6.2],
-      "fisica": [6, 6.7, 4.9, 6.6],
-      "quimica": [8.2, 6.3, 9.6, 8],
-      "linguas": [8.4, 7, 7.8, 6.6]
+      "Matemática": [6.3, 7.5, 5.6, 8.6],
+      "Português": [2.8, 2.6, 2.7, 3.3],
+      "História": [6.3, 4.5, 5.5, 4.6],
+      "Geografia": [5.4, 5.7, 4.2, 6.2],
+      "Física": [6, 6.7, 4.9, 6.6],
+      "Química": [8.2, 6.3, 9.6, 8],
+      "Línguas": [8.4, 7, 7.8, 6.6]
     },
     "faltas": {
-      "matematica": 5,
-      "portugues": 10,
-      "historia": 3,
-      "geografia": 9,
-      "fisica": 0,
-      "quimica": 6,
-      "linguas": 9
+      "Matemática": 5,
+      "Português": 10,
+      "História": 3,
+      "Geografia": 9,
+      "Física": 0,
+      "Química": 6,
+      "Línguas": 9
     }
   },
   {
@@ -423,22 +423,22 @@
     "nome": "Ana Almeida",
     "turma":3,
     "notas": {
-      "matematica": [6.5, 7.6, 8.5, 6.1],
-      "portugues": [5.6, 9, 8.5, 5.1],
-      "historia": [6.5, 8.7, 6.8, 7.2],
-      "geografia": [4.1, 4.3, 3.6, 3.4],
-      "fisica": [6.9, 6.4, 6.1, 8.7],
-      "quimica": [4.8, 3.9, 4.6, 2.3],
-      "linguas": [5.2, 5.9, 4.4, 5]
+      "Matemática": [6.5, 7.6, 8.5, 6.1],
+      "Português": [5.6, 9, 8.5, 5.1],
+      "História": [6.5, 8.7, 6.8, 7.2],
+      "Geografia": [4.1, 4.3, 3.6, 3.4],
+      "Física": [6.9, 6.4, 6.1, 8.7],
+      "Química": [4.8, 3.9, 4.6, 2.3],
+      "Línguas": [5.2, 5.9, 4.4, 5]
     },
     "faltas": {
-      "matematica": 1,
-      "portugues": 6,
-      "historia": 10,
-      "geografia": 9,
-      "fisica": 8,
-      "quimica": 3,
-      "linguas": 10
+      "Matemática": 1,
+      "Português": 6,
+      "História": 10,
+      "Geografia": 9,
+      "Física": 8,
+      "Química": 3,
+      "Línguas": 10
     }
   },
   {
@@ -446,22 +446,22 @@
     "nome": "Fernanda Rocha",
     "turma":1,
     "notas": {
-      "matematica": [7.4, 6.4, 6.6, 6.6],
-      "portugues": [8.4, 6.9, 6.3, 8.8],
-      "historia": [6.8, 6, 7.8, 8.1],
-      "geografia": [6.9, 6.6, 6, 4.3],
-      "fisica": [9.1, 8.5, 8.4, 9],
-      "quimica": [6.8, 5.6, 5.7, 6.6],
-      "linguas": [4.6, 5, 3.8, 3.9]
+      "Matemática": [7.4, 6.4, 6.6, 6.6],
+      "Português": [8.4, 6.9, 6.3, 8.8],
+      "História": [6.8, 6, 7.8, 8.1],
+      "Geografia": [6.9, 6.6, 6, 4.3],
+      "Física": [9.1, 8.5, 8.4, 9],
+      "Química": [6.8, 5.6, 5.7, 6.6],
+      "Línguas": [4.6, 5, 3.8, 3.9]
     },
     "faltas": {
-      "matematica": 2,
-      "portugues": 2,
-      "historia": 9,
-      "geografia": 0,
-      "fisica": 10,
-      "quimica": 9,
-      "linguas": 3
+      "Matemática": 2,
+      "Português": 2,
+      "História": 9,
+      "Geografia": 0,
+      "Física": 10,
+      "Química": 9,
+      "Línguas": 3
     }
   },
   {
@@ -469,22 +469,22 @@
     "nome": "Julia Ferreira",
     "turma":2,
     "notas": {
-      "matematica": [4.1, 6.1, 5.1, 4.2],
-      "portugues": [5.1, 5.1, 6.3, 5.5],
-      "historia": [2.1, 4.4, 2.7, 2.6],
-      "geografia": [9.7, 8.2, 7.2, 8],
-      "fisica": [7, 8.3, 7.3, 7.2],
-      "quimica": [5.6, 6.7, 6.9, 4.3],
-      "linguas": [5.7, 5.6, 6.6, 5.2]
+      "Matemática": [4.1, 6.1, 5.1, 4.2],
+      "Português": [5.1, 5.1, 6.3, 5.5],
+      "História": [2.1, 4.4, 2.7, 2.6],
+      "Geografia": [9.7, 8.2, 7.2, 8],
+      "Física": [7, 8.3, 7.3, 7.2],
+      "Química": [5.6, 6.7, 6.9, 4.3],
+      "Línguas": [5.7, 5.6, 6.6, 5.2]
     },
     "faltas": {
-      "matematica": 3,
-      "portugues": 5,
-      "historia": 5,
-      "geografia": 2,
-      "fisica": 2,
-      "quimica": 9,
-      "linguas": 10
+      "Matemática": 3,
+      "Português": 5,
+      "História": 5,
+      "Geografia": 2,
+      "Física": 2,
+      "Química": 9,
+      "Línguas": 10
     }
   },
   {
@@ -492,22 +492,22 @@
     "nome": "Maria Rocha",
     "turma":3,
     "notas": {
-      "matematica": [5.6, 5.9, 6.6, 5.8],
-      "portugues": [7.1, 8.6, 8.3, 6],
-      "historia": [3.4, 2.2, 3, 3.9],
-      "geografia": [8.2, 6.6, 8.9, 8.4],
-      "fisica": [8.2, 9, 7.2, 7.6],
-      "quimica": [9.8, 7.4, 8, 7.9],
-      "linguas": [5.3, 5.5, 5.4, 4.7]
+      "Matemática": [5.6, 5.9, 6.6, 5.8],
+      "Português": [7.1, 8.6, 8.3, 6],
+      "História": [3.4, 2.2, 3, 3.9],
+      "Geografia": [8.2, 6.6, 8.9, 8.4],
+      "Física": [8.2, 9, 7.2, 7.6],
+      "Química": [9.8, 7.4, 8, 7.9],
+      "Línguas": [5.3, 5.5, 5.4, 4.7]
     },
     "faltas": {
-      "matematica": 10,
-      "portugues": 6,
-      "historia": 9,
-      "geografia": 0,
-      "fisica": 4,
-      "quimica": 8,
-      "linguas": 4
+      "Matemática": 10,
+      "Português": 6,
+      "História": 9,
+      "Geografia": 0,
+      "Física": 4,
+      "Química": 8,
+      "Línguas": 4
     }
   },
   {
@@ -515,22 +515,22 @@
     "nome": "Carlos Rocha",
     "turma":1,
     "notas": {
-      "matematica": [7.6, 7.8, 9, 9.4],
-      "portugues": [8.7, 8.1, 8.2, 9.6],
-      "historia": [4.5, 5.6, 6.7, 6.1],
-      "geografia": [6.6, 6.7, 5.3, 5.1],
-      "fisica": [9.9, 9.6, 9.5, 9.7],
-      "quimica": [5.9, 6.6, 6.9, 6.7],
-      "linguas": [5.3, 5.6, 4, 5.7]
+      "Matemática": [7.6, 7.8, 9, 9.4],
+      "Português": [8.7, 8.1, 8.2, 9.6],
+      "História": [4.5, 5.6, 6.7, 6.1],
+      "Geografia": [6.6, 6.7, 5.3, 5.1],
+      "Física": [9.9, 9.6, 9.5, 9.7],
+      "Química": [5.9, 6.6, 6.9, 6.7],
+      "Línguas": [5.3, 5.6, 4, 5.7]
     },
     "faltas": {
-      "matematica": 10,
-      "portugues": 8,
-      "historia": 3,
-      "geografia": 10,
-      "fisica": 7,
-      "quimica": 3,
-      "linguas": 4
+      "Matemática": 10,
+      "Português": 8,
+      "História": 3,
+      "Geografia": 10,
+      "Física": 7,
+      "Química": 3,
+      "Línguas": 4
     }
   },
   {
@@ -538,22 +538,22 @@
     "nome": "Gustavo Santos",
     "turma":2,
     "notas": {
-      "matematica": [9.5, 6.3, 7.7, 9.6],
-      "portugues": [6.2, 6.6, 5.1, 5.9],
-      "historia": [8.6, 5.5, 8.7, 7.3],
-      "geografia": [6.7, 4.5, 4.5, 5.8],
-      "fisica": [4.1, 4.5, 3.2, 4.3],
-      "quimica": [8.9, 7.1, 8.5, 8.3],
-      "linguas": [7.5, 8.5, 8.4, 9.6]
+      "Matemática": [9.5, 6.3, 7.7, 9.6],
+      "Português": [6.2, 6.6, 5.1, 5.9],
+      "História": [8.6, 5.5, 8.7, 7.3],
+      "Geografia": [6.7, 4.5, 4.5, 5.8],
+      "Física": [4.1, 4.5, 3.2, 4.3],
+      "Química": [8.9, 7.1, 8.5, 8.3],
+      "Línguas": [7.5, 8.5, 8.4, 9.6]
     },
     "faltas": {
-      "matematica": 8,
-      "portugues": 4,
-      "historia": 2,
-      "geografia": 3,
-      "fisica": 7,
-      "quimica": 1,
-      "linguas": 7
+      "Matemática": 8,
+      "Português": 4,
+      "História": 2,
+      "Geografia": 3,
+      "Física": 7,
+      "Química": 1,
+      "Línguas": 7
     }
   },
   {
@@ -561,22 +561,22 @@
     "nome": "Pedro Ferreira",
     "turma":3,
     "notas": {
-      "matematica": [7.1, 6.4, 7.3, 6.4],
-      "portugues": [9.3, 7.1, 7.3, 9.6],
-      "historia": [6.9, 7.6, 8.8, 6.2],
-      "geografia": [4.2, 2.8, 4.6, 3],
-      "fisica": [8.4, 7.3, 6.9, 6.2],
-      "quimica": [6.7, 7.7, 8.1, 7.1],
-      "linguas": [6.8, 4.4, 4.9, 5.3]
+      "Matemática": [7.1, 6.4, 7.3, 6.4],
+      "Português": [9.3, 7.1, 7.3, 9.6],
+      "História": [6.9, 7.6, 8.8, 6.2],
+      "Geografia": [4.2, 2.8, 4.6, 3],
+      "Física": [8.4, 7.3, 6.9, 6.2],
+      "Química": [6.7, 7.7, 8.1, 7.1],
+      "Línguas": [6.8, 4.4, 4.9, 5.3]
     },
     "faltas": {
-      "matematica": 8,
-      "portugues": 1,
-      "historia": 0,
-      "geografia": 0,
-      "fisica": 5,
-      "quimica": 0,
-      "linguas": 4
+      "Matemática": 8,
+      "Português": 1,
+      "História": 0,
+      "Geografia": 0,
+      "Física": 5,
+      "Química": 0,
+      "Línguas": 4
     }
   },
   {
@@ -584,22 +584,22 @@
     "nome": "Julia Almeida",
     "turma":1,
     "notas": {
-      "matematica": [5.6, 4.9, 5.8, 4],
-      "portugues": [5, 4.3, 5.8, 5.2],
-      "historia": [8.4, 7.9, 6.8, 8],
-      "geografia": [4.2, 6.6, 5.6, 4.3],
-      "fisica": [9.4, 6.4, 7.6, 7.9],
-      "quimica": [4.2, 5.9, 6.6, 6.9],
-      "linguas": [6.3, 6.2, 6.5, 6.8]
+      "Matemática": [5.6, 4.9, 5.8, 4],
+      "Português": [5, 4.3, 5.8, 5.2],
+      "História": [8.4, 7.9, 6.8, 8],
+      "Geografia": [4.2, 6.6, 5.6, 4.3],
+      "Física": [9.4, 6.4, 7.6, 7.9],
+      "Química": [4.2, 5.9, 6.6, 6.9],
+      "Línguas": [6.3, 6.2, 6.5, 6.8]
     },
     "faltas": {
-      "matematica": 6,
-      "portugues": 3,
-      "historia": 2,
-      "geografia": 9,
-      "fisica": 2,
-      "quimica": 4,
-      "linguas": 2
+      "Matemática": 6,
+      "Português": 3,
+      "História": 2,
+      "Geografia": 9,
+      "Física": 2,
+      "Química": 4,
+      "Línguas": 2
     }
   },
   {
@@ -607,22 +607,22 @@
     "nome": "João Ferreira",
     "turma":2,
     "notas": {
-      "matematica": [9, 10, 8, 7.3],
-      "portugues": [8.4, 9.8, 6.8, 6.4],
-      "historia": [5.2, 6.1, 5.2, 5.1],
-      "geografia": [7.3, 9.7, 7.8, 7.9],
-      "fisica": [9, 10, 8, 7.3],
-      "quimica": [6, 8.3, 7.8, 7],
-      "linguas": [6.2, 5, 4, 5.1]
+      "Matemática": [9, 10, 8, 7.3],
+      "Português": [8.4, 9.8, 6.8, 6.4],
+      "História": [5.2, 6.1, 5.2, 5.1],
+      "Geografia": [7.3, 9.7, 7.8, 7.9],
+      "Física": [9, 10, 8, 7.3],
+      "Química": [6, 8.3, 7.8, 7],
+      "Línguas": [6.2, 5, 4, 5.1]
     },
     "faltas": {
-      "matematica": 5,
-      "portugues": 0,
-      "historia": 4,
-      "geografia": 4,
-      "fisica": 1,
-      "quimica": 4,
-      "linguas": 0
+      "Matemática": 5,
+      "Português": 0,
+      "História": 4,
+      "Geografia": 4,
+      "Física": 1,
+      "Química": 4,
+      "Línguas": 0
     }
   },
   {
@@ -630,22 +630,22 @@
     "nome": "Lucas Oliveira",
     "turma":3,
     "notas": {
-      "matematica": [9.8, 9.3, 7.5, 9.5],
-      "portugues": [6.6, 5, 8, 6.3],
-      "historia": [7.6, 7.6, 7.5, 9],
-      "geografia": [7, 7.1, 6.4, 8.1],
-      "fisica": [7.3, 9.6, 6.9, 6.3],
-      "quimica": [6.9, 6.6, 6.2, 5.3],
-      "linguas": [9.5, 8, 7.2, 8.2]
+      "Matemática": [9.8, 9.3, 7.5, 9.5],
+      "Português": [6.6, 5, 8, 6.3],
+      "História": [7.6, 7.6, 7.5, 9],
+      "Geografia": [7, 7.1, 6.4, 8.1],
+      "Física": [7.3, 9.6, 6.9, 6.3],
+      "Química": [6.9, 6.6, 6.2, 5.3],
+      "Línguas": [9.5, 8, 7.2, 8.2]
     },
     "faltas": {
-      "matematica": 9,
-      "portugues": 8,
-      "historia": 5,
-      "geografia": 9,
-      "fisica": 6,
-      "quimica": 2,
-      "linguas": 0
+      "Matemática": 9,
+      "Português": 8,
+      "História": 5,
+      "Geografia": 9,
+      "Física": 6,
+      "Química": 2,
+      "Línguas": 0
     }
   },
   {
@@ -653,22 +653,22 @@
     "nome": "João Souza",
     "turma":1,
     "notas": {
-      "matematica": [8.1, 6.4, 7.8, 6.9],
-      "portugues": [7.3, 8.3, 8.2, 9.7],
-      "historia": [5.4, 6, 6.5, 6.6],
-      "geografia": [7.8, 8.6, 8.5, 8],
-      "fisica": [4, 5.3, 4.5, 6],
-      "quimica": [4.6, 5.4, 4.6, 5.8],
-      "linguas": [6.4, 7.7, 6.5, 8]
+      "Matemática": [8.1, 6.4, 7.8, 6.9],
+      "Português": [7.3, 8.3, 8.2, 9.7],
+      "História": [5.4, 6, 6.5, 6.6],
+      "Geografia": [7.8, 8.6, 8.5, 8],
+      "Física": [4, 5.3, 4.5, 6],
+      "Química": [4.6, 5.4, 4.6, 5.8],
+      "Línguas": [6.4, 7.7, 6.5, 8]
     },
     "faltas": {
-      "matematica": 6,
-      "portugues": 9,
-      "historia": 4,
-      "geografia": 8,
-      "fisica": 7,
-      "quimica": 5,
-      "linguas": 6
+      "Matemática": 6,
+      "Português": 9,
+      "História": 4,
+      "Geografia": 8,
+      "Física": 7,
+      "Química": 5,
+      "Línguas": 6
     }
   },
   {
@@ -676,22 +676,22 @@
     "nome": "Fernanda Costa",
     "turma":2,
     "notas": {
-      "matematica": [5.3, 7.7, 8.5, 8.7],
-      "portugues": [7.2, 8.2, 6.3, 8.6],
-      "historia": [5, 5.5, 5, 4.8],
-      "geografia": [5, 5, 6, 6],
-      "fisica": [6, 6.3, 5.2, 6.8],
-      "quimica": [4.9, 5.6, 5, 5.8],
-      "linguas": [7.2, 8.2, 6.3, 8.6]
+      "Matemática": [5.3, 7.7, 8.5, 8.7],
+      "Português": [7.2, 8.2, 6.3, 8.6],
+      "História": [5, 5.5, 5, 4.8],
+      "Geografia": [5, 5, 6, 6],
+      "Física": [6, 6.3, 5.2, 6.8],
+      "Química": [4.9, 5.6, 5, 5.8],
+      "Línguas": [7.2, 8.2, 6.3, 8.6]
     },
     "faltas": {
-      "matematica": 3,
-      "portugues": 2,
-      "historia": 4,
-      "geografia": 5,
-      "fisica": 0,
-      "quimica": 0,
-      "linguas": 3
+      "Matemática": 3,
+      "Português": 2,
+      "História": 4,
+      "Geografia": 5,
+      "Física": 0,
+      "Química": 0,
+      "Línguas": 3
     }
   },
   {
@@ -699,22 +699,22 @@
     "nome": "Fernanda Oliveira",
     "turma":3,
     "notas": {
-      "matematica": [6.6, 5.2, 5, 4.6],
-      "portugues": [6, 6.3, 4.9, 4.7],
-      "historia": [3.5, 3.6, 2.1, 4.1],
-      "geografia": [7.2, 6.2, 7.1, 8.9],
-      "fisica": [4.8, 3.5, 2.1, 3.7],
-      "quimica": [5.6, 8.4, 7.5, 9],
-      "linguas": [3.9, 3.3, 2.6, 3.3]
+      "Matemática": [6.6, 5.2, 5, 4.6],
+      "Português": [6, 6.3, 4.9, 4.7],
+      "História": [3.5, 3.6, 2.1, 4.1],
+      "Geografia": [7.2, 6.2, 7.1, 8.9],
+      "Física": [4.8, 3.5, 2.1, 3.7],
+      "Química": [5.6, 8.4, 7.5, 9],
+      "Línguas": [3.9, 3.3, 2.6, 3.3]
     },
     "faltas": {
-      "matematica": 5,
-      "portugues": 3,
-      "historia": 1,
-      "geografia": 3,
-      "fisica": 9,
-      "quimica": 7,
-      "linguas": 9
+      "Matemática": 5,
+      "Português": 3,
+      "História": 1,
+      "Geografia": 3,
+      "Física": 9,
+      "Química": 7,
+      "Línguas": 9
     }
   }
 ]
